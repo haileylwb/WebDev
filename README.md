@@ -1,4 +1,4 @@
 # WebDev
-Download Images Separately
+Download Images:
 https://gnrlwoundwort.github.io/Web-Development/Level%205/index.html 
-tinyurl.com/TurnersTutorial
+or tinyurl.com/TurnersTutorial
