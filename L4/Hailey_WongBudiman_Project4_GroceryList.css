@@ -1,0 +1,21 @@
+body{
+    padding-top:50px;
+  
+    background-color: white;
+}
+img{
+    width:10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    font-size:45px;
+    text-align: center;
+    vertical-align:middle;
+}
+h3{
+    font-size:30px;
+    text-align: center;
+    padding-bottom:20px;
+}

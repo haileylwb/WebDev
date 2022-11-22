@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Shop Lift Up - Grocery List</title>
+        <link rel = "stylesheet" href = "Hailey_WongBudiman_Project4_GroceryList.css" />
+        <script src = "Hailey_WongBudiman_Project4_GroceryList.js"></script>
+    </head>
+    <body onload="initialize();">
+        <img src="https://rocateq.com/wp-content/uploads/2020/01/rocateq_shoppingbasket_isolated-1.png"/>
+        <h2>Shop Lift Up</h2>
+        <h3>Grocery List</h3>
+        <hr />
+        <label>
+            Selection: <input type="text" id="foodsel" />
+        </label>
+        <hr />
+        <button onclick = "addFood();">Add Food</button>
+        <button onclick = "deleteItem();">Delete Food</button>
+        <button onclick = "array_moveUp(-1);">Move Up</button>
+        <button onclick = "array_moveUp(1);">Move Down</button>
+        <br />
+        <hr />
+        <div>
+            <div id="outbox"></div>
+        </div>
+    </body>
+</html>
+
